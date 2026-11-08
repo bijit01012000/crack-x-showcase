@@ -1,0 +1,7 @@
+:HL["/crack-x-showcase/_next/static/chunks/26fna43q9n57u.css","style"]
+:HL["/crack-x-showcase/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/crack-x-showcase/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"examId","t":"d","k":"upsc-cse","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"exams","h":131136,"c":"$Q2"}]]
+0:{"b":"48tV-dIiALV4lZZUtghZk","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
