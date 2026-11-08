@@ -1,0 +1,10 @@
+:HL["/crack-x-showcase/_next/static/chunks/1vrm033v6qhga.css","style"]
+:HL["/crack-x-showcase/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/crack-x-showcase/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:[["children",{"s":"__PAGE__","h":160}]]
+5:[["children",{"s":{"n":"topicId","t":"d","k":"polity.bank.07-fundamental-rights","s":[]},"h":65632,"c":"$Q6"}]]
+4:[["children",{"s":"study","h":131168,"c":"$Q5"}]]
+3:[["children",{"s":"(app)","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"examId","t":"d","k":"upsc-cse","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"exams","h":131136,"c":"$Q2"}]]
+0:{"b":"eOjJ33MoPy5xBEu9k3e2a","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
