@@ -4,4 +4,4 @@
 :HL["/crack-x-showcase/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"vertical","t":"d","k":"upsc","s":["account","admin","api","exams","login","signup"]},"h":65600,"c":"$Q2"}]]
-0:{"b":"KgoWutxK0ACFMP2l4MGlZ","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"gdiBZqYHZmW5UKs8JI8H5","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
