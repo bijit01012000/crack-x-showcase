@@ -1,10 +1,10 @@
 2:"$Sreact.fragment"
-3:"/crack-x-showcase/_next/static/chunks/2hmej4c5wribi.js"
-4:"/crack-x-showcase/_next/static/chunks/0jeh-fyg6gccs.js"
+3:"/crack-x-showcase/_next/static/chunks/3knww-dv15rq0.js"
+4:"/crack-x-showcase/_next/static/chunks/3c5vp5i59gun0.js"
 5:I[66408,["$3","$4"],"default"]
 6:I[30978,["$3","$4"],"default"]
 b:"$Sreact.suspense"
-c:"/crack-x-showcase/_next/static/chunks/1tp4j0zva7wag.js"
+c:"/crack-x-showcase/_next/static/chunks/2y50urarec7gw.js"
 d:I[81497,["$3","$4","$c"],"SignupForm"]
 e:I[97101,["$3","$4"],"OutletBoundary"]
 11:"ViewportBoundary"
@@ -15,9 +15,9 @@ e:I[97101,["$3","$4"],"OutletBoundary"]
 8:X
 8:C
 9:X
-a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$b",null,{"children":["$","$Ld",null,{"verticals":[{"id":"opsc","name":"Crack-X OPSC","tagline":"Odisha Civil Services preparation, built for Odisha.","exams":[{"id":"opsc-ocs","shortName":"OPSC OCS","name":"OPSC Odisha Civil Services Examination"}]},{"id":"upsc","name":"Crack-X UPSC","tagline":"Your Civil Services preparation companion.","exams":[{"id":"upsc-cse","shortName":"UPSC CSE","name":"UPSC Civil Services Examination"}]}]}]}],[["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/1tp4j0zva7wag.js","async":true}]],["$","$Le",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$b",null,{"children":["$","$Ld",null,{"verticals":[{"id":"opsc","name":"Crack-X OPSC","tagline":"Odisha Civil Services preparation, built for Odisha.","exams":[{"id":"opsc-ocs","shortName":"OPSC OCS","name":"OPSC Odisha Civil Services Examination"}]},{"id":"upsc","name":"Crack-X UPSC","tagline":"Your Civil Services preparation companion.","exams":[{"id":"upsc-cse","shortName":"UPSC CSE","name":"UPSC Civil Services Examination"}]}]}]}],[["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/2y50urarec7gw.js","async":true}]],["$","$Le",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$9"}}]]
 1:[["children",{"s":"signup","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Create account · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"r_lF5ewQwgkuRny9pLst2"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Create account · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L15","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"5LcHJ5W4U_bBqJKnczK_-"}
 f:null
 18:true
 9:300
