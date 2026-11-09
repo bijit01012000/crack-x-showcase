@@ -1,0 +1,11 @@
+:HL["/crack-x-showcase/_next/static/chunks/2j8xo_wdf5uan.css","style"]
+:HL["/crack-x-showcase/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/crack-x-showcase/_next/static/media/237858b39a32779d-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/crack-x-showcase/_next/static/media/7c42b85337e0c4bb-s.p.012bmydply3go.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:[["children",{"s":"__PAGE__","h":160}]]
+5:[["children",{"s":{"n":"topicId","t":"d","k":"polity.delimitation-commission","s":["view"]},"h":65632,"c":"$Q6"}]]
+4:[["children",{"s":"downloads","h":131168,"c":"$Q5"}]]
+3:[["children",{"s":"(app)","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"examId","t":"d","k":"opsc-ocs","s":[]},"h":196704,"c":"$Q3"}]]
+1:[["children",{"s":"exams","h":131136,"c":"$Q2"}]]
+0:{"b":"KgoWutxK0ACFMP2l4MGlZ","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
