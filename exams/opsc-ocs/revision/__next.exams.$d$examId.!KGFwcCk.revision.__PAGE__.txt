@@ -1,14 +1,14 @@
 2:"$Sreact.fragment"
-3:"/crack-x-showcase/_next/static/chunks/2hmej4c5wribi.js"
-4:"/crack-x-showcase/_next/static/chunks/3ecl05g1tzs_n.js"
-5:"/crack-x-showcase/_next/static/chunks/3lc649kinffeb.js"
+3:"/crack-x-showcase/_next/static/chunks/26wt5likz9-zv.js"
+4:"/crack-x-showcase/_next/static/chunks/1v9n3o35tzvd4.js"
+5:"/crack-x-showcase/_next/static/chunks/0lg7p2qmhv9ij.js"
 6:I[66408,["$3","$4","$5"],"default"]
 7:I[30978,["$3","$4","$5"],"default"]
 e:"/crack-x-showcase/_next/static/chunks/0mmjo99vmys10.js"
 f:I[40131,["$3","$4","$5","$e"],"ExamGate"]
-14:"/crack-x-showcase/_next/static/chunks/01n27zxxpbwze.js"
-15:"/crack-x-showcase/_next/static/chunks/2lq98v1bb6m_z.js"
-16:"/crack-x-showcase/_next/static/chunks/29wyfbyo5cq01.js"
+14:"/crack-x-showcase/_next/static/chunks/39wzjgif33h8r.js"
+15:"/crack-x-showcase/_next/static/chunks/3fwbij150h8g-.js"
+16:"/crack-x-showcase/_next/static/chunks/250e8xza8csf4.js"
 17:I[25738,["$3","$4","$5","$e","$14","$15","$16"],"RevisionQueue"]
 1d:"ViewportBoundary"
 1e:I[97101,["$3","$4","$5"],"$1d"]
@@ -24,11 +24,11 @@ a:X
 d:[["children",{"s":"(app)","h":96,"d":{"r":["$","$2","c",{"children":[[["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/0mmjo99vmys10.js","async":true}]],["$","$Lf",null,{"exam":{"id":"opsc-ocs","name":"OPSC Odisha Civil Services Examination","shortName":"OPSC OCS","authority":"Odisha Public Service Commission","categoryId":"state-civil-services","verticalId":"opsc","active":true,"questionTypes":["mcq_single"],"freeTier":{"openTopicsPerUnit":2,"practicePerDay":25,"mocksPerMonth":2,"mainsPerMonth":3,"currentAffairsEditions":1,"consultRequests":0},"freeTopicIds":["polity.historical-background","polity.making-of-the-constitution","polity.parliamentary-system","polity.federalism","polity.president","polity.prime-minister-and-council","polity.governor","polity.chief-minister-and-state-council","polity.panchayati-raj","polity.municipalities","polity.public-service-commissions","polity.finance-commission-and-gst-council","polity.niti-aayog","polity.human-rights-commissions","polity.co-operative-societies","polity.official-language","polity.political-parties","polity.elections","polity.landmark-judgements","polity.constitutional-doctrines","polity.world-constitutions","history.harappan-civilisation","history.british-colonial-rule","history.gandhi","aptitude.logical-reasoning"],"features":["dashboard","announcements","study","search","current-affairs","downloads","practice","quiz","flashcards","simulator","revision","mains-answer","assistant","consult","pricing"],"officialUrl":"https://opsc.gov.in/","description":"Odisha state civil services examination, with Odisha-specific history, culture and governance as a first-class collection.","region":"Odisha","versionLabel":"Next notification","needsVerification":true,"papers":[{"id":"prelims-gs1","name":"Prelims — General Studies Paper I","stage":"Prelims","durationMinutes":120,"marking":{"correct":2,"incorrect":-0.66,"unanswered":0,"source":"Demo config — to be replaced with the verified OPSC scheme (T-0002)","verified":false}}]},"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]}]]}],"p":"$@10","v":null,"s":"$a"},"c":"$Q11"}]]
 b:[["children",{"s":{"n":"examId","t":"d","k":"opsc-ocs","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":null,"s":"$a"},"c":"$Qd"}]]
 1:[["children",{"s":"exams","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
-0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Revision · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$a"}},"a":"$@24","u":"$@25","b":"tJjV5B42fUv1L2wah6mgb"}
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Revision · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$a"}},"a":"$@24","u":"$@25","b":"_rXBB391RvUFJTB_-z93o"}
 26:I[97101,["$3","$4","$5"],"OutletBoundary"]
-18:["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/01n27zxxpbwze.js","async":true}]
-19:["$","script","script-1",{"src":"/crack-x-showcase/_next/static/chunks/2lq98v1bb6m_z.js","async":true}]
-1a:["$","script","script-2",{"src":"/crack-x-showcase/_next/static/chunks/29wyfbyo5cq01.js","async":true}]
+18:["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/39wzjgif33h8r.js","async":true}]
+19:["$","script","script-1",{"src":"/crack-x-showcase/_next/static/chunks/3fwbij150h8g-.js","async":true}]
+1a:["$","script","script-2",{"src":"/crack-x-showcase/_next/static/chunks/250e8xza8csf4.js","async":true}]
 1b:["$","$L26",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@27"}]}]
 25:true
 a:300
