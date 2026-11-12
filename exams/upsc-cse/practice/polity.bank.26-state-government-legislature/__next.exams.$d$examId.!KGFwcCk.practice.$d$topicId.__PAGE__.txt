@@ -1,14 +1,14 @@
 2:"$Sreact.fragment"
 3:"/crack-x-showcase/_next/static/chunks/26wt5likz9-zv.js"
-4:"/crack-x-showcase/_next/static/chunks/1qi341voelrs7.js"
-5:"/crack-x-showcase/_next/static/chunks/0f4alulbsdgak.js"
+4:"/crack-x-showcase/_next/static/chunks/2setoy46-su1-.js"
+5:"/crack-x-showcase/_next/static/chunks/25_ptywweo0y8.js"
 6:I[66408,["$3","$4","$5"],"default"]
 7:I[30978,["$3","$4","$5"],"default"]
 e:"/crack-x-showcase/_next/static/chunks/0qj-su3-7piq6.js"
 f:I[40131,["$3","$4","$5","$e"],"ExamGate"]
-16:"/crack-x-showcase/_next/static/chunks/0w7uddu_31gbn.js"
-17:"/crack-x-showcase/_next/static/chunks/3fwbij150h8g-.js"
-18:"/crack-x-showcase/_next/static/chunks/03np9-9x_lz2w.js"
+16:"/crack-x-showcase/_next/static/chunks/1erx1e2qfrviy.js"
+17:"/crack-x-showcase/_next/static/chunks/2w3nv6q0s489y.js"
+18:"/crack-x-showcase/_next/static/chunks/2zwb6okbkx-m7.js"
 19:I[40217,["$3","$4","$5","$e","$16","$17","$18"],""]
 1a:"LockedTopicNotice"
 1b:I[46163,["$3","$4","$5","$e","$16","$17","$18"],"$1a"]
@@ -29,13 +29,13 @@ a:X
 d:[["children",{"s":"(app)","h":131168,"d":{"r":["$","$2","c",{"children":[[["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/0qj-su3-7piq6.js","async":true}]],["$","$Lf",null,{"exam":{"id":"upsc-cse","name":"UPSC Civil Services Examination","shortName":"UPSC CSE","authority":"Union Public Service Commission","categoryId":"national-civil-services","verticalId":"upsc","active":true,"questionTypes":["mcq_single"],"freeTier":{"openTopicsPerUnit":2,"practicePerDay":25,"mocksPerMonth":2,"mainsPerMonth":3,"currentAffairsEditions":1,"consultRequests":0},"freeTopicIds":["polity.bank.01-historical-background","polity.bank.02-making-of-the-constitution","polity.bank.07-fundamental-rights","polity.bank.08-directive-principles-dpsp","polity.bank.12-parliamentary-system","polity.bank.13-federal-system-centre-state-relations","polity.bank.16-the-president-union-executive","polity.bank.17-vice-president","polity.bank.22-supreme-court-judicial-review","polity.bank.24-high-courts-subordinate-judiciary","polity.bank.23-governor","polity.bank.26-state-government-legislature","polity.bank.27-constitutional-statutory-bodies"],"features":["dashboard","announcements","study","search","current-affairs","downloads","practice","quiz","flashcards","simulator","revision","mains-answer","assistant","consult","pricing"],"officialUrl":"https://upsc.gov.in/","description":"National civil services examination. Crack-X starts with Prelims General Studies Paper I.","versionLabel":"CSE 2027","needsVerification":true,"papers":[{"id":"prelims-gs1","name":"Prelims — General Studies Paper I","stage":"Prelims","durationMinutes":120,"marking":{"correct":2,"incorrect":-0.66,"unanswered":0,"source":"Demo config — to be verified against the official notification","verified":false}}]},"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]}]]}],"p":"$@10","v":null,"s":"$a"},"c":"$Q11"}]]
 b:[["children",{"s":{"n":"examId","t":"d","k":"upsc-cse","s":[]},"h":196704,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":null,"s":"$a"},"c":"$Qd"}]]
 1:[["children",{"s":"exams","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
-0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Practice — State Government & Legislature · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L29","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2a","v":null,"s":"$a"}},"a":"$@2b","u":"$@2c","b":"wjfmrLsWFCjLX8P5Ws-bf"}
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L26",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#faf6ef","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#1b1814","media":"(prefers-color-scheme: dark)"}]]}],["$","$L28",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Practice — State Government & Legislature · Crack-X"}],["$","meta","1",{"name":"description","content":"Exam-wise notes, Concept Cards, practice, simulators and spaced revision for state and national competitive exams."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/crack-x-showcase/icon.svg?icon.1otef1ki271m4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L29","4",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2a","v":null,"s":"$a"}},"a":"$@2b","u":"$@2c","b":"HgnPwsjKxbPbcz7KSs2bi"}
 2d:I[12911,["$3","$4","$5","$e","$16","$17","$18"],"PracticePicked"]
 2e:I[97101,["$3","$4","$5"],"OutletBoundary"]
 1f:["$","$L2d",null,{"questions":"$15:0:1:d:r:props:children:0:props:children:5:props:children:props:children:props:fallback:props:questions"}]
-20:["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/0w7uddu_31gbn.js","async":true}]
-21:["$","script","script-1",{"src":"/crack-x-showcase/_next/static/chunks/3fwbij150h8g-.js","async":true}]
-22:["$","script","script-2",{"src":"/crack-x-showcase/_next/static/chunks/03np9-9x_lz2w.js","async":true}]
+20:["$","script","script-0",{"src":"/crack-x-showcase/_next/static/chunks/1erx1e2qfrviy.js","async":true}]
+21:["$","script","script-1",{"src":"/crack-x-showcase/_next/static/chunks/2w3nv6q0s489y.js","async":true}]
+22:["$","script","script-2",{"src":"/crack-x-showcase/_next/static/chunks/2zwb6okbkx-m7.js","async":true}]
 23:["$","$L2e",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@2f"}]}]
 2c:true
 a:300
