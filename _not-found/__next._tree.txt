@@ -1,4 +1,4 @@
 :HL["/crack-x-showcase/_next/static/chunks/2kbkqcy-jgvb-.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"HgnPwsjKxbPbcz7KSs2bi","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"2IKKVlcY9vmSE1q4Xbo4a","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
